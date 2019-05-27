@@ -1,9 +1,4 @@
-/*
-.fancybox-image{
-    width:700px !important;
-    height: 900px !important;
-} 
-*/
+
 
 .navbar{
     display:flex;
@@ -29,7 +24,7 @@
 }
 
 body {
-  background-image: url("colorful-library.jpg") !important; 
+  background-image: url("/images/colorful-library.jpg") !important; 
 
     background-size:auto;
   font-family: 'Roboto', Tahoma, Arial, sans-serif;
@@ -65,6 +60,11 @@ img{
     height:500px;
     border:2px solid grey
 }
+
+.fancybox-image{
+    width:700px !important;
+    height: 900px !important;
+} 
 
 /* confir de CSS obtenida en https://davidwalsh.name/css-flip */
 
