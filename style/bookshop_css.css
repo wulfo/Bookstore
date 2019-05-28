@@ -52,8 +52,8 @@ img{
 }
 
 .fancybox-image{
-    width:auto!important;
-    height: auto !important;
+    width:400px !important;
+    height: 600px !important;
 } 
 
 /* confir de CSS obtenida en https://davidwalsh.name/css-flip */
