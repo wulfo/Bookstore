@@ -139,7 +139,7 @@ function searchBox(elements) {
     applyInput(filter, elements);
 }
 
-function applyInput(filter, elements) {
+var applyInput = function (filter, elements) {
 //    console.log('1')
     let cards = document.getElementsByClassName("flipContainer")
     //    console.log(cards)
